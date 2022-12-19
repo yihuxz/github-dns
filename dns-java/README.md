@@ -16,7 +16,7 @@ Android：/system/etc/hosts
 [Hosts](https://github.com/JohyC/Hosts)
 [github-dns](https://gitee.com/AutismSuperman/github-dns)
 
-# GitHub更新时间 2022-12-19 01:11:43
+# GitHub更新时间 2022-12-19 12:29:19
 ```
 140.82.113.3                           github.com
 Subdomain List Page #159               raw.github.com
